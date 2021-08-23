@@ -1,0 +1,20 @@
+
+h1{
+    color:brown
+}
+h2{
+    color:chartreuse
+}
+*{
+    border:solid
+}
+.header{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
